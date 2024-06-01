@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -96.7836,
+        "lat": 32.7668
+    },
+    "weather": [
+        {
+            "id": 502,
+            "main": "Rain",
+            "description": "heavy intensity rain",
+            "icon": "10n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 292.72,
+        "feels_like": 293,
+        "temp_min": 291.71,
+        "temp_max": 293.62,
+        "pressure": 1014,
+        "humidity": 87
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 110
+    },
+    "rain": {
+        "1h": 5.95
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1715492870,
+    "sys": {
+        "type": 2,
+        "id": 2075302,
+        "country": "US",
+        "sunrise": 1715513405,
+        "sunset": 1715563020
+    },
+    "timezone": -18000,
+    "id": 4684904,
+    "name": "Dallas",
+    "cod": 200
+}
